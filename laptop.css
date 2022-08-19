@@ -38,7 +38,8 @@ header {
 }
 
 .contact-item {
-    margin-top: 0rem; 
+    margin-top: 0rem;
+    width: 18rem;
 }
 
 .portrait {
@@ -49,8 +50,9 @@ header {
 }
 
 .author-img {
-    width: 5rem;
-    height: 7rem;
+    margin-top: 0.3rem;
+    width: 7.5rem;
+    height: 10rem;
 }
 
 section {
